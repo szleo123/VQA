@@ -1,0 +1,74 @@
+
+Overall Accuracy is: 41.26
+Per Question Type Accuracy is the following:
+could : 75.49
+what room is : 74.99
+what sport is : 68.31
+do : 67.92
+does the : 66.71
+has : 66.17
+does this : 65.62
+is this an : 65.01
+is there : 63.11
+is this person : 62.34
+do you : 61.95
+is he : 61.68
+are there : 61.36
+is the man : 61.05
+is there a : 60.94
+is : 60.87
+is the : 60.79
+are they : 60.42
+is it : 60.29
+are the : 60.19
+is this a : 60.04
+is this : 59.90
+are these : 59.55
+is the woman : 59.54
+was : 59.39
+are : 59.14
+can you : 58.72
+is that a : 58.66
+is the person : 58.15
+are there any : 58.01
+what animal is : 52.26
+none of the above : 42.93
+what is this : 39.85
+what is the color of the : 39.56
+what is the person : 37.36
+what is the man : 36.52
+what color is the : 34.37
+how many : 33.85
+which : 33.73
+what color are the : 33.60
+how many people are : 32.01
+what kind of : 30.73
+what color is : 29.51
+what type of : 29.16
+what is the woman : 28.99
+how many people are in : 28.70
+what are : 27.72
+what color : 25.55
+what brand : 25.28
+what : 24.75
+who is : 24.09
+what is the : 23.86
+what are the : 23.48
+where are the : 21.84
+what is in the : 21.71
+what is on the : 18.76
+what is : 18.43
+where is the : 17.85
+what time : 17.59
+how : 12.11
+what does the : 10.38
+why is the : 9.38
+why : 7.43
+what is the name : 2.59
+what number is : 1.66
+
+Per Answer Type Accuracy is the following:
+other : 27.55
+yes/no : 63.63
+number : 28.74
+
