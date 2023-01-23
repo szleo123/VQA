@@ -23,3 +23,11 @@ Results
 | VQA original      | 44.37 | 65.30  | 29.82   | 32.28 |
 | CLIP-adpated      | 44.15 | 65.04  | 33.05   | 31.19 |
 | Attention-adpated | 44.70 | 68.04  | 30.97   | 30.56 |
+
+Model Structure 
+------------------------------------------------
+The best model, attention-adpated VQA has the following model structure: 
+
+![](fig/att_net.png)
+
+in which ```Attenion network```
