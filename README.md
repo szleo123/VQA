@@ -30,4 +30,6 @@ The best model, attention-adpated VQA has the following model structure:
 
 ![](fig/att_net.png)
 
-in which ```Attenion network```
+in which ```Attenion network``` has the following structure: 
+
+![](fig/att.png)
