@@ -8,6 +8,8 @@ An example input is as follows
 
 ![](fig/example.png)
 
-An example answer is like 
+An example data in the dataset is like 
 
 ![](fig/dataexample.png)
+
+What we expected from a model is natrual language answers with confidence probablities. 
