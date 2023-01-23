@@ -13,3 +13,13 @@ An example data in the dataset is like
 ![](fig/dataexample.png)
 
 What we expected from a model is natrual language answers with confidence probablities. 
+
+Results
+------------------------------------------------
+
+| Models            | all   | yes/no | number  | other |
+|-------------------|-------|--------|---------|-------|
+| Majority vote     | 32.36 | 64.42  | 26.93   | 9.38  |
+| VQA original      | 44.37 | 65.30  | 29.82   | 32.28 |
+| CLIP-adpated      | 44.15 | 65.04  | 33.05   | 31.19 |
+| Attention-adpated | 44.70 | 68.04  | 30.97   | 30.56 |
